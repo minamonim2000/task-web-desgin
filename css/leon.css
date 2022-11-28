@@ -199,5 +199,11 @@
     color: #777;
     font-size: 17px;
   }
+  /* End Features */
+  /* Start Services  */
+  .services {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+  }
   
  
