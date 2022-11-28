@@ -43,3 +43,13 @@
       width: 1170px;
     }
   }
+  /* End Global Rules */
+  /* Start Components */
+  .special-heading {
+    color: #ebeced;
+    font-size: 100px;
+    text-align: center;
+    font-weight: 800;
+    letter-spacing: -3px;
+    margin: 0;
+  }
