@@ -194,4 +194,13 @@ select {
   margin: 0;
 }
 
+/**
+ * 1. Show the overflow in IE.
+ * 2. Remove the inheritance of text transform in Edge 18-, Firefox, and IE.
+ */
+
+ button {
+    overflow: visible; /* 1 */
+    text-transform: none; /* 2 */
+  }
   
