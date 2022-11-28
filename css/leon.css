@@ -6,3 +6,10 @@
     --section-background: #f6f6f6;
     --main-duration: 0.5s;
 }
+/* End Variables */
+  /* Start Global Rules */
+  * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
