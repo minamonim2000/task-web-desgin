@@ -110,7 +110,7 @@ main {
   strong {
     font-weight: bolder;
   }
-  
+
   /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
@@ -142,3 +142,14 @@ small {
  video {
    display: inline-block;
  }
+
+ /**
+ * Add the correct display in iOS 4-7.
+ */
+
+audio:not([controls]) {
+    display: none;
+    height: 0;
+  }
+  
+  
